@@ -36,3 +36,8 @@ git clone https://github.com/byfozil/my-portfolio-app.git
 
 - 📧 Email: support@yuldoshew.uz
 - 🐙 GitHub: [@byfozil](https://github.com/byfozil)
+
+## 🚀 Deployments
+
+- GitHub: [my-portfolio-app](https://byfozil.github.io/my-portfolio-app/)
+- Global: [yuldoshew.uz](https://yuldoshew.uz)
