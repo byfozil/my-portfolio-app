@@ -40,4 +40,4 @@ git clone https://github.com/byfozil/my-portfolio-app.git
 ## 🚀 Deployments
 
 - GitHub: [my-portfolio-app](https://byfozil.github.io/my-portfolio-app/)
-- Global: [yuldoshew.uz](https://yuldoshew.uz)
+- Global (My Portfolio): [yuldoshew.uz](https://yuldoshew.uz)
